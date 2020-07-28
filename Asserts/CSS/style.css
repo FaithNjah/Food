@@ -1,0 +1,107 @@
+.header{
+    background-image: url(../IMG/header-large1.jpg);
+    height: 450px;
+    background-size: cover;
+    background-color: rgb(49, 48, 48);
+    background-blend-mode:overlay;
+}
+.nav{
+    margin: 0;
+    padding: 0;
+}
+.button{
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    background: orange;
+}
+.heading{
+    margin: 85px 0 0 0;
+    padding: 0;
+}
+.hero{
+    margin: 0;
+    padding: 0;
+}
+.para{
+    margin: 0;
+    padding: 0;
+}
+.block-text{
+    display: block;
+}
+.mission{
+    margin-bottom: 25px;
+    color: orange;
+    font-weight: 600;
+    padding: 20px;
+}
+.quote-line{
+    margin: auto;
+    margin-top: 20px;
+    width: 30px;
+    border: 1.5px solid rgb(238, 92, 39);
+}
+.help{
+    padding-top: 12px;
+}   
+.arrow{
+    color: orange;
+}
+.number{
+    color: orange;
+}
+.container-2{
+    margin-top: 20px;
+}
+
+.icons, .title{
+    text-align: center;
+    color: black;
+}
+.text{
+    text-align: center;
+    text-align: justify;
+    color: black;
+}
+.footer{
+    background-image: url(../IMG/footer.jpeg);
+    height: 13rem;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color:rgb(32, 32, 32);
+    background-blend-mode:overlay;
+    text-align: center;
+    padding-top: rem;
+}
+.foot{
+    background-size: 100% 100%;
+}
+.foot-text{
+    color: #fff;
+}
+.end{
+    height: 200px;
+    width: 500rem;
+    background-color: darkslategrey;
+}
+.title{
+    font-family: 'Segoe UI', Tahoma, 'Geneva', 'Verdana', 'sans-serif';   
+}
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+}
+.card:hover{
+    background-color: orange;
+}
+.hover:hover{
+    color: #fff;
+    transition: all .5s;
+}
+.icons, .title, .text{
+    text-decoration: none;
+}
+a {
+    text-decoration: none !important;
+  }
