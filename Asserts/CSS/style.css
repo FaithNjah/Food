@@ -94,6 +94,7 @@
 }
 .card:hover{
     background-color: orange;
+    transition: all .5s;
 }
 .hover:hover{
     color: #fff;
