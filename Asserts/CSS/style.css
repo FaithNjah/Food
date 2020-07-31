@@ -8,6 +8,7 @@
 .nav{
     margin: 0;
     padding: 0;
+    
 }
 .button{
     border-radius: 20px;
@@ -120,3 +121,6 @@ a {
       margin-top: 1rem;
       text-decoration: underline
   }
+.tog{
+    color: #fff;
+}
