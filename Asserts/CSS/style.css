@@ -25,6 +25,9 @@
     margin: 0;
     padding: 0;
 }
+.stop{
+    text-align: justify;
+}
 .para{
     margin: 0;
     padding: 0;
@@ -36,7 +39,6 @@
     margin-bottom: 25px;
     color: orange;
     font-weight: 600;
-    padding: 20px;
 }
 .quote-line{
     margin: auto;
