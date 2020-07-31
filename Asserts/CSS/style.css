@@ -40,6 +40,10 @@
     color: orange;
     font-weight: 600;
 }
+.effort{
+    margin-top: 0;
+    padding-top: 0;
+}
 .quote-line{
     margin: auto;
     margin-top: 20px;
@@ -54,6 +58,10 @@
 }
 .number{
     color: orange;
+}
+.five{
+    margin: 0 !important;
+    padding: 0 !important;
 }
 .container-2{
     margin-top: 20px;
